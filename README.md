@@ -63,15 +63,18 @@ Documentation: https://losc.ligo.org/data/#yellow_box, https://losc.ligo.org/tut
 
 
 ## Template  
-Name:  
-Content description:  
-Provider:  
-Location:  
-Formats:  
-Retrieval:  
-Size:  
-Partioned:  
-Records:  
-Updates:  
-Documentation:  
+| Item | Info |
+| ----- | ---- |
+| Name | |
+| Content description |  |
+| Provider |  |
+| Location | |
+| Formats | |
+| Retrieval | |
+| Size | |
+| Partioned | |
+| Records | |
+| Updates | | 
+| Documentation | |
+
 
