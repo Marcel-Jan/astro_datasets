@@ -132,7 +132,22 @@ positions.  |
 | Documentation | https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum |
 
 
+Got anything to add to this list? Send a mail to astro_datasets@marcel-jan.eu.
 
 
+### Template
+| Item | Info |
+| ----- | ---- |
+| Name |  |
+| Content description |  |
+| Provider |  |
+| Location |  |
+| Formats |  |
+| Retrieval |  |
+| Size |  |
+| Partioned |  |
+| Records |  |
+| Updates |  | 
+| Documentation |  |
 
 
