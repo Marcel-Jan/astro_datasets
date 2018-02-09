@@ -19,22 +19,6 @@ This is a list of astronomy and space related (downloadable if possible) dataset
 | Documentation | http://minorplanetcenter.net/Extended_Files/Extended_MPCORB_Data_Format_Manual.pdf |
 
 
-### Meteorite landings  
-| Item | Info |
-| ----- | ---- |
-| Name | Meteorite Landings |
-| Content description | information on all of the known meteorite landings |
-| Provider | NASA |
-| Location | https://data.nasa.gov/Space-Science/Meteorite-Landings/ak9y-cwf9  |
-| Formats | CSV (Export) and JSON (API) |
-| Retrieval | Click "Export" or API  |
-| Size | 4.6 MB  |
-| Partioned | No  |
-| Records | about 45,000  |
-| Updates | Doesn't look like it's updated in a while  |
-| Documentation | Not known  |
-
-
 ### GAIA - GAIA DR1 Source  
 | Item | Info |
 | ----- | ---- |
@@ -68,19 +52,87 @@ positions.  |
 | Documentation | https://losc.ligo.org/data/#yellow_box, https://losc.ligo.org/tutorials/  |
 
 
-### Template  
+### Supernovae
 | Item | Info |
 | ----- | ---- |
-| Name | |
-| Content description |  |
-| Provider |  |
-| Location | |
-| Formats | |
-| Retrieval | |
-| Size | |
-| Partioned | |
-| Records | |
-| Updates | | 
-| Documentation | |
+| Name | The Open Supernovae Catalog |
+| Content description | The goal of this catalog is to act as a centralized, open repository for supernova metadata, light curves, and spectra. |
+| Provider | The Open Supernovae Catalog. Many contributors. Currently, the catalog is maintained by James Guillochon (ITC at the CfA) and Jerod Parrent (ITC at the CfA). |
+| Location | https://sne.space/download/ |
+| Formats | CSV, JSON (zipped, individual JSON files per supernovae) |
+| Retrieval | Plain download, API |
+| Size | 625 MB |
+| Partioned | On ranges of years |
+| Records | 45,577 supernovae with 508,318 individual photometric detections and 18,168 individual spectra |
+| Updates | Yes. Whenever supernovae occur | 
+| Documentation | http://adsabs.harvard.edu/abs/2016arXiv160501054G |
+
+
+### CosmoSim  
+| Item | Info |
+| ----- | ---- |
+| Name | CosmoSim |
+| Content description | The CosmoSim database provides results from cosmological simulations performed within different projects: MultiDark and Bolshoi, CLUES, and Galaxies.  |
+| Provider | Leibniz-Institute for Astrophysics Potsdam (AIP) |
+| Location | https://www.cosmosim.org/ |
+| Formats | CSV, XML |
+| Retrieval | Registration, then a SQL query needs to be written |
+| Size | Several terabytes ? |
+| Partioned | No. Need to write SQL query |
+| Records | ? |
+| Updates | Presumably after new simulations| 
+| Documentation | https://www.cosmosim.org/cms/documentation/demos-and-tutorials/first-steps-with-cosmosim/ |
+
+
+### Fireball and Bolide Data  
+| Item | Info |
+| ----- | ---- |
+| Name | Fireball and bolide data |
+| Content description | Exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. Provided by U.S. Government sensors |
+| Provider | NASA Center for Near Earth Object Studies |
+| Location | https://cneos.jpl.nasa.gov/fireballs/ |
+| Formats | CSV, Excel |
+| Retrieval | Plain download |
+| Size | 53 KB |
+| Partioned | No |
+| Records | 735 |
+| Updates | Yes. When new occurrences happen | 
+| Documentation | https://cneos.jpl.nasa.gov/fireballs/ (Click "Table Column Descriptions") |
+
+
+### Meteorite landings  
+| Item | Info |
+| ----- | ---- |
+| Name | Meteorite Landings |
+| Content description | information on all of the known meteorite landings |
+| Provider | NASA |
+| Location | https://data.nasa.gov/Space-Science/Meteorite-Landings/ak9y-cwf9  |
+| Formats | CSV (Export) and JSON (API) |
+| Retrieval | Click "Export" or API  |
+| Size | 4.6 MB  |
+| Partioned | No  |
+| Records | about 45,000  |
+| Updates | Doesn't look like it's updated in a while  |
+| Documentation | Not known  |
+
+
+### Fireball And Bolide Reports  
+| Item | Info |
+| ----- | ---- |
+| Name | Fireball And Bolide Reports |
+| Content description | Exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. Provided by U.S. Government sensors |
+| Provider | NASA |
+| Location | https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum |
+| Formats | CSV, CSV for Excel |
+| Retrieval | Click Export |
+| Size | 6 KB |
+| Partioned | No |
+| Records | 92 |
+| Updates | No new updates since 2015. | 
+| Documentation | https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum |
+
+
+
+
 
 
