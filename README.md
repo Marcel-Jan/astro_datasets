@@ -147,6 +147,20 @@ positions.  |
 | Updates | Last on 3 years ago | 
 | Documentation | http://www.astronexus.com/hyg |
 
+### Exoplanets
+| Item | Info |
+| ----- | ---- |
+| Name | NASA Exoplanet Archive |
+| Content description | Confirmed exoplanets |
+| Provider | NASA |
+| Location | https://exoplanetarchive.ipac.caltech.edu/, https://exoplanetarchive.ipac.caltech.edu/bulk_data_download/ (bulk) |
+| Formats | CSV (web interface), PDF (obtainable with wget) |
+| Retrieval | Via table in web interface or in bulk with wget |
+| Size | ? |
+| Partioned | Bulk: per exoplanet |
+| Records | 34031 (Summary reports in PDF) |
+| Updates | When new discoveries occur | 
+| Documentation | https://exoplanetarchive.ipac.caltech.edu/docs/API_exoplanet_columns.html, http://irsa.ipac.caltech.edu/docs/batch_download_help.html (wget) |
 
 Got anything to add to this list? Send a mail to astro_datasets@marcel-jan.eu.
 
