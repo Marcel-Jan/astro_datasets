@@ -132,6 +132,22 @@ positions.  |
 | Documentation | https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum |
 
 
+### HYG Stellar database
+| Item | Info |
+| ----- | ---- |
+| Name | HYG Stellar database |
+| Content description | "The HYG database (v3.0) is a compilation of interesting (to me, anyway) stellar data from a variety of catalogs. It is useful for background information on all sorts of data: star names, positions, brightnesses, distances, and spectrum information. It also powers the charts elsewhere on this site." |
+| Provider | David Nash |
+| Location | http://www.astronexus.com/hyg, https://github.com/astronexus/HYG-Database |
+| Formats | CSV |
+| Retrieval | Plain download |
+| Size | 33 MB |
+| Partioned | No |
+| Records | 119615 |
+| Updates | Last on 3 years ago | 
+| Documentation | http://www.astronexus.com/hyg |
+
+
 Got anything to add to this list? Send a mail to astro_datasets@marcel-jan.eu.
 
 
