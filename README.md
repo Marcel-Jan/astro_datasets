@@ -156,7 +156,7 @@ positions.  |
 | Location | https://exoplanetarchive.ipac.caltech.edu/, https://exoplanetarchive.ipac.caltech.edu/bulk_data_download/ (bulk) |
 | Formats | CSV (web interface), PDF (obtainable with wget) |
 | Retrieval | Via table in web interface or in bulk with wget |
-| Size | ? |
+| Size | 1 MB (simple table in CSV),  ? (bulk) |
 | Partioned | Bulk: per exoplanet |
 | Records | 34031 (Summary reports in PDF) |
 | Updates | When new discoveries occur | 
