@@ -19,10 +19,10 @@ This is a list of astronomy and space related (downloadable if possible) dataset
 | Documentation | http://minorplanetcenter.net/Extended_Files/Extended_MPCORB_Data_Format_Manual.pdf |
 
 
-### GAIA - GAIA DR1 Source  
+### GAIA - GAIA DR1, DR2 Source  
 | Item | Info |
 | ----- | ---- |
-| Name | GAIA DR1  |
+| Name | GAIA DR1, DR2  |
 | Content description | Positions (α, δ) and G magnitudes for all sources with acceptable formal standard errors on 
 positions.  |
 | Provider | ESA  |
@@ -31,9 +31,9 @@ positions.  |
 | Retrieval | Plain download  |
 | Size | |
 | Partioned | Yes, files of 40 MB (CSV)  |
-| Records | 1,142,679,769  |
-| Updates | No. (Dataset DR2 is expected in april 2018)  |
-| Documentation | https://www.cosmos.esa.int/web/gaia/dr1  |
+| Records | 1,692,919,135  |
+| Updates | Dataset DR2 was published 25 april 2018)  |
+| Documentation | https://www.cosmos.esa.int/web/gaia/dr1, https://gea.esac.esa.int/archive/documentation/GDR2/Gaia_archive/chap_datamodel/sec_dm_main_tables/ssec_dm_gaia_source.html |
 
 
 ### LIGO  
