@@ -146,7 +146,25 @@ positions.  |
 | Updates | When new discoveries occur | 
 | Documentation | https://exoplanetarchive.ipac.caltech.edu/docs/API_exoplanet_columns.html, http://irsa.ipac.caltech.edu/docs/batch_download_help.html (wget) |
 
+
+### Sunspots
+| Item | Info |
+| ----- | ---- |
+| Name | Sunspot Index and Long-term Solar Observations (SILSO) |
+| Content description | Sunspot observations since 1818. |
+| Provider | Royal Observatory of Belgium |
+| Location | https://www.sidc.be/SILSO/home |
+| Formats | CSV |
+| Retrieval | Download |
+| Size | 2.8 MB |
+| Partioned | No |
+| Records | 75756 (2025-06-29) |
+| Updates | Daily | 
+| Documentation | [https://www.sidc.be/SILSO/infosndtot](Daily total sunspot number) |
+
+
 Got anything to add to this list? Send a mail to astro_datasets@marcel-jan.eu.
+
 
 
 ### Template
