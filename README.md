@@ -65,7 +65,7 @@ positions.  |
 | Partioned | On ranges of years |
 | Records | ? |
 | Updates | Yes. Whenever supernovae occur | 
-| Documentation | [http://adsabs.harvard.edu/abs/2016arXiv160501054G](https://github.com/astrocatalogs/supernovae?tab=readme-ov-file) |
+| Documentation | https://github.com/astrocatalogs/supernovae?tab=readme-ov-file |
 
 
 ### CosmoSim  
@@ -88,10 +88,10 @@ positions.  |
 | Item | Info |
 | ----- | ---- |
 | Name | Fireball and bolide data |
-| Content description | Exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. Provided by U.S. Government sensors |
+| Content description | Exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. Provided by U.S. Government sensors. API available via https://ssd-api.jpl.nasa.gov/doc/fireball.html |
 | Provider | NASA Center for Near Earth Object Studies |
 | Location | https://cneos.jpl.nasa.gov/fireballs/ |
-| Formats | CSV, Excel |
+| Formats | CSV, Excel, API |
 | Retrieval | Plain download |
 | Size | 53 KB |
 | Partioned | No |
@@ -104,32 +104,16 @@ positions.  |
 | Item | Info |
 | ----- | ---- |
 | Name | Meteorite Landings |
-| Content description | information on all of the known meteorite landings |
+| Content description | information on all of the known meteorite landings. The data is location oriented. |
 | Provider | NASA |
-| Location | https://data.nasa.gov/Space-Science/Meteorite-Landings/ak9y-cwf9  |
-| Formats | CSV (Export) and JSON (API) |
-| Retrieval | Click "Export" or API  |
-| Size | 4.6 MB  |
+| Location | https://data.nasa.gov/dataset/meteorite-landings  |
+| Formats | CSV, RDF, XML and JSON |
+| Retrieval | Download or API  |
+| Size | 4 MB (CSV), 12,6 MB (JSON)  |
 | Partioned | No  |
 | Records | about 45,000  |
-| Updates | Doesn't look like it's updated in a while  |
+| Updates | Yes.  |
 | Documentation | Not known  |
-
-
-### Fireball And Bolide Reports  
-| Item | Info |
-| ----- | ---- |
-| Name | Fireball And Bolide Reports |
-| Content description | Exceptionally bright meteors that are spectacular enough to to be seen over a very wide area. Provided by U.S. Government sensors |
-| Provider | NASA |
-| Location | https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum |
-| Formats | CSV, CSV for Excel |
-| Retrieval | Click Export |
-| Size | 6 KB |
-| Partioned | No |
-| Records | 92 |
-| Updates | No new updates since 2015. | 
-| Documentation | https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum |
 
 
 ### HYG Stellar database
