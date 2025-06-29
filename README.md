@@ -19,11 +19,11 @@ This is a list of astronomy and space related (downloadable if possible) dataset
 | Documentation | http://minorplanetcenter.net/Extended_Files/Extended_MPCORB_Data_Format_Manual.pdf |
 
 
-### GAIA - GAIA DR1, DR2 Source  
+### GAIA - GAIA DR1, DR2, DR3 Source  
 | Item | Info |
 | ----- | ---- |
-| Name | GAIA DR1, DR2  |
-| Content description | Positions (α, δ) and G magnitudes for all sources with acceptable formal standard errors on 
+| Name | GAIA DR1, DR2, DR3  |
+| Content description | The full astrometric solution — positions on the sky (α, δ), parallax, and proper motion — for around 1.46 billion (1.46 109) sources, with a limiting magnitude of about G ≈ 21 and a bright limit of about G ≈ 3. The astrometric solution is accompanied with some new quality indicators, like RUWE, and source image descriptors.
 positions.  |
 | Provider | ESA  |
 | Location | https://gea.esac.esa.int/archive/  |
@@ -31,8 +31,8 @@ positions.  |
 | Retrieval | Plain download  |
 | Size | |
 | Partioned | Yes, files of 40 MB (CSV)  |
-| Records | 1,692,919,135  |
-| Updates | Dataset DR2 was published 25 april 2018)  |
+| Records | Variability analysis, together with the underlying epoch photometry, for 10.5 million sources. Apart from classification into 24 variability classes, detailed variability results are provided in separate tables. More info here: https://www.cosmos.esa.int/web/gaia/dr3  |
+| Updates | Dataset DR2 was published 25 april 2018), DR3 on 13 june 2022  |
 | Documentation | https://www.cosmos.esa.int/web/gaia/dr1, https://gea.esac.esa.int/archive/documentation/GDR2/Gaia_archive/chap_datamodel/sec_dm_main_tables/ssec_dm_gaia_source.html |
 
 
