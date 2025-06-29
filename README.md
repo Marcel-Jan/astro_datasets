@@ -57,15 +57,15 @@ positions.  |
 | ----- | ---- |
 | Name | The Open Supernovae Catalog |
 | Content description | The goal of this catalog is to act as a centralized, open repository for supernova metadata, light curves, and spectra. |
-| Provider | The Open Supernovae Catalog. Many contributors. Currently, the catalog is maintained by James Guillochon (ITC at the CfA) and Jerod Parrent (ITC at the CfA). |
-| Location | https://sne.space/download/ |
-| Formats | CSV, JSON (zipped, individual JSON files per supernovae) |
-| Retrieval | Plain download, API |
-| Size | 625 MB |
+| Provider | The Open Supernovae Catalog. Unfortunately the domain sne.space is no longer available. But the data is available on Github and can be downloaded with a the [https://github.com/astrocatalogs/astrocats](AstroCats) catalog generation package|
+| Location | [https://sne.space/download/](https://github.com/astrocatalogs/supernovae) |
+| Formats | JSON |
+| Retrieval | Plain download, Python package [https://github.com/astrocatalogs/astrocats](AstroCats) |
+| Size | ? |
 | Partioned | On ranges of years |
-| Records | 45,577 supernovae with 508,318 individual photometric detections and 18,168 individual spectra |
+| Records | ? |
 | Updates | Yes. Whenever supernovae occur | 
-| Documentation | http://adsabs.harvard.edu/abs/2016arXiv160501054G |
+| Documentation | [http://adsabs.harvard.edu/abs/2016arXiv160501054G](https://github.com/astrocatalogs/supernovae?tab=readme-ov-file) |
 
 
 ### CosmoSim  
